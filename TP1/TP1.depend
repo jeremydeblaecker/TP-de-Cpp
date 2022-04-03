@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1612084422 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp1\ex1.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"TPPartie1.h"
+
+1614435371 c:\users\jérémy\desktop\travail\b3\c++\exercices\tp1\tppartie1.h
+	<iostream>
+
+1614435365 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp1\main.cpp
+	"TPPartie1.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1612089149 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp1\ex2.cpp
+	"TPPartie1.h"
+	<cstdlib>
+	<ctime>
+
+1612089284 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp1\ex3.cpp
+	"TPPartie1.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1612088788 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp1\ex4.cpp
+	<iostream>
+	"TPPartie1.h"
+
+1612088829 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp1\ex5.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	"TPPartie1.h"
+
+1612089077 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp1\ex6.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"TPPartie1.h"
+
+1612108059 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp1\ex7.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	<conio.h>
+	"TPPartie1.h"
+
+1612096663 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp1\ex8.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"TPPartie1.h"
+
+1612103630 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp1\test.cpp
+	<iostream>
+	<iomanip>
+	<conio.h>
+	"TPPartie1.h"
+

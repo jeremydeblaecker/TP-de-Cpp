@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1614628736 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp2\ex1.cpp
+	<iostream>
+	<memory>
+	<string>
+	"TPPartie2.h"
+
+1614633030 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp2\ex4.cpp
+	<iostream>
+	"TPPartie2.h"
+
+1614633490 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp2\ex5.cpp
+	<iostream>
+	<memory>
+	<string>
+	"TPPartie2.h"
+
+1614618813 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp2\main.cpp
+	"TPPartie2.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1614632609 c:\users\jérémy\desktop\travail\b3\c++\exercices\tp2\tppartie2.h
+	<iostream>
+
+1614628878 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp2\ex2.cpp
+	<iostream>
+	<string>
+	"TPPartie2.h"
+
+1614628528 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp2\ex3.cpp
+	<iostream>
+	<memory>
+	<string>
+	"TPPartie2.h"
+

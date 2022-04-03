@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1615812774 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp3\main.cpp
+	"TPPartie3.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1615631977 c:\users\jérémy\desktop\travail\b3\c++\exercices\tp3\tppartie3.h
+	<iostream>
+
+1615815773 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp3\ex1.cpp
+	<iostream>
+	"Carte.h"
+
+1615816051 c:\users\jérémy\desktop\travail\b3\c++\exercices\tp3\carte.h
+	<iostream>
+
+1615817611 source:c:\users\jérémy\desktop\travail\b3\c++\exercices\tp3\ex2.cpp
+	"Carte2.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1615817603 c:\users\jérémy\desktop\travail\b3\c++\exercices\tp3\carte2.h
+	<iostream>
+
